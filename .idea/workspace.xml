@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="" />
+    <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +41,7 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos Kotlin Study\Curso-Kotlin\src\fundamentos" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TemplateString2Kt">
+  <component name="RunManager" selected="Kotlin.NotacaoPontoKt">
     <configuration name="FucaoSemRetornoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.FucaoSemRetornoKt" />
       <module name="Curso-Kotlin" />
@@ -54,6 +56,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NotacaoPontoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.NotacaoPontoKt" />
+      <module name="Curso-Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TemplateString1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.TemplateString1Kt" />
       <module name="Curso-Kotlin" />
@@ -63,13 +72,6 @@
     </configuration>
     <configuration name="TemplateString2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.TemplateString2Kt" />
-      <module name="Curso-Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TiposBasicosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.TiposBasicosKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NotacaoPontoKt" />
         <item itemvalue="Kotlin.TemplateString2Kt" />
         <item itemvalue="Kotlin.TemplateString1Kt" />
         <item itemvalue="Kotlin.FuncaoComRetornoKt" />
         <item itemvalue="Kotlin.FucaoSemRetornoKt" />
-        <item itemvalue="Kotlin.TiposBasicosKt" />
       </list>
     </recent_temporary>
   </component>
