@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/FucaoSemRetorno.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos Kotlin Study\Curso-Kotlin\src\fundamentos" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TiposBasicosKt">
+  <component name="RunManager" selected="Kotlin.FuncaoComRetornoKt">
     <configuration name="ConstJavaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.ConstJavaKt" />
       <module name="Curso-Kotlin" />
@@ -56,8 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CuidadoInferencia2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.CuidadoInferencia2Kt" />
+    <configuration name="FucaoSemRetornoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.FucaoSemRetornoKt" />
+      <module name="Curso-Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuncaoComRetornoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.FuncaoComRetornoKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,13 +73,6 @@
     </configuration>
     <configuration name="TiposBasicosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.TiposBasicosKt" />
-      <module name="Curso-Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.VarKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FuncaoComRetornoKt" />
+        <item itemvalue="Kotlin.FucaoSemRetornoKt" />
         <item itemvalue="Kotlin.TiposBasicosKt" />
         <item itemvalue="Kotlin.ConstJavaKt" />
         <item itemvalue="Kotlin.ConstKt" />
-        <item itemvalue="Kotlin.CuidadoInferencia2Kt" />
-        <item itemvalue="Kotlin.VarKt" />
       </list>
     </recent_temporary>
   </component>
