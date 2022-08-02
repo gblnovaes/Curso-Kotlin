@@ -8,4 +8,6 @@ fun main() {
         println(contador)
         contador++
     }
+
+    println("Fim")
 }

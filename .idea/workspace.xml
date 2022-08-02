@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controles/For2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controles/For3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controles/For4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/ChecagemDeTipo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/OperadorCast.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/SmartCast.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controles/Break1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controles/Break2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controles/Continue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controles/DoWhile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Aritmeticos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Atribuicao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/ConversaoNumeroString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Destruct.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Logicos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Relacionais.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Ternario1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Ternario2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Unarios.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentos/controles/While2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/controles/While2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,56 +45,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gabriel Novaes/Desktop/Projetos Kotlin Study/Curso-Kotlin/src/fundamentos/controles&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Gabriel Novaes/Desktop/Projetos Kotlin Study/Curso-Kotlin/src/fundamentos/operadores",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos Kotlin Study\Curso-Kotlin\src\fundamentos\operadores" />
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos Kotlin Study\Curso-Kotlin\src\fundamentos\controles" />
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos K4otlin Study\Curso-Kotlin\src\fundamentos\controles" />
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos Kotlin Study\Curso-Kotlin\src\fundamentos" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.For4Kt">
-    <configuration name="For1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.For1Kt" />
+  <component name="RunManager" selected="Kotlin.OperadorCastKt">
+    <configuration name="ChecagemDeTipoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.ChecagemDeTipoKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.For2Kt" />
+    <configuration name="ConversaoNumeroStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.ConversaoNumeroStringKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.For3Kt" />
+    <configuration name="OperadorCastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.OperadorCastKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.For4Kt" />
+    <configuration name="SmartCastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.SmartCastKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.While2Kt" />
+    <configuration name="Ternario2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.Ternario2Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.For4Kt" />
-        <item itemvalue="Kotlin.For3Kt" />
-        <item itemvalue="Kotlin.For2Kt" />
-        <item itemvalue="Kotlin.For1Kt" />
-        <item itemvalue="Kotlin.While2Kt" />
+        <item itemvalue="Kotlin.OperadorCastKt" />
+        <item itemvalue="Kotlin.SmartCastKt" />
+        <item itemvalue="Kotlin.ChecagemDeTipoKt" />
+        <item itemvalue="Kotlin.ConversaoNumeroStringKt" />
+        <item itemvalue="Kotlin.Ternario2Kt" />
       </list>
     </recent_temporary>
   </component>
