@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controles/If.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/controles/IfElse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controles/IfElseIf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controles/While1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/controles/While2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentos/controles/IfElse2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/controles/IfElse2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Gabriel Novaes/Desktop/Projetos Kotlin Study/Curso-Kotlin/src/fundamentos",
+    "last_opened_file_path": "C:/Users/Gabriel Novaes/Desktop/Projetos Kotlin Study/Curso-Kotlin/src/fundamentos/controles",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -44,40 +46,41 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos Kotlin Study\Curso-Kotlin\src\fundamentos\controles" />
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos Kotlin Study\Curso-Kotlin\src\fundamentos" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.IfElseKt">
-    <configuration name="ForcandoNullPointerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.ForcandoNullPointerKt" />
+  <component name="RunManager" selected="Kotlin.While2Kt">
+    <configuration name="IfElse2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.IfElse2Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.IfElseKt" />
+    <configuration name="IfElseIfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.IfElseIfKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.IfKt" />
+    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.WhenKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadorElvisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.OperadorElvisKt" />
+    <configuration name="While1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.While1Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteImportKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.TesteImportKt" />
+    <configuration name="While2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.controles.While2Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.IfElseKt" />
-        <item itemvalue="Kotlin.IfKt" />
-        <item itemvalue="Kotlin.TesteImportKt" />
-        <item itemvalue="Kotlin.ForcandoNullPointerKt" />
-        <item itemvalue="Kotlin.OperadorElvisKt" />
+        <item itemvalue="Kotlin.While2Kt" />
+        <item itemvalue="Kotlin.While1Kt" />
+        <item itemvalue="Kotlin.WhenKt" />
+        <item itemvalue="Kotlin.IfElseIfKt" />
+        <item itemvalue="Kotlin.IfElse2Kt" />
       </list>
     </recent_temporary>
   </component>
