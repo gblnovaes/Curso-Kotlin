@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/funcoes/ParamsPadroes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +46,7 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos Kotlin Study\Curso-Kotlin\src\fundamentos" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ParamsPadroesKt">
+  <component name="RunManager" selected="Kotlin.MultiplosRetornosKt">
     <configuration name="ArgsNomeadosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.funcoes.ArgsNomeadosKt" />
       <module name="Curso-Kotlin" />
@@ -57,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadorCastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.OperadorCastKt" />
+    <configuration name="MultiplosRetornosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.funcoes.MultiplosRetornosKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MultiplosRetornosKt" />
         <item itemvalue="Kotlin.ParamsPadroesKt" />
         <item itemvalue="Kotlin.ParametrosImutaveisKt" />
         <item itemvalue="Kotlin.ArgsNomeadosKt" />
         <item itemvalue="Kotlin.TopLevelKt" />
-        <item itemvalue="Kotlin.OperadorCastKt" />
       </list>
     </recent_temporary>
   </component>
