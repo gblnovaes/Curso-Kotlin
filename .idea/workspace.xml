@@ -49,7 +49,7 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos Kotlin Study\Curso-Kotlin\src\fundamentos" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ArgsNomeadosKt">
+  <component name="RunManager" selected="Kotlin.ParametrosImutaveisKt">
     <configuration name="ArgsNomeadosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.funcoes.ArgsNomeadosKt" />
       <module name="Curso-Kotlin" />
@@ -57,15 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChecagemDeTipoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.ChecagemDeTipoKt" />
+    <configuration name="OperadorCastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.OperadorCastKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadorCastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.OperadorCastKt" />
+    <configuration name="ParametrosImutaveisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.funcoes.ParametrosImutaveisKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ParametrosImutaveisKt" />
         <item itemvalue="Kotlin.ArgsNomeadosKt" />
         <item itemvalue="Kotlin.TopLevelKt" />
         <item itemvalue="Kotlin.OperadorCastKt" />
         <item itemvalue="Kotlin.SmartCastKt" />
-        <item itemvalue="Kotlin.ChecagemDeTipoKt" />
       </list>
     </recent_temporary>
   </component>
