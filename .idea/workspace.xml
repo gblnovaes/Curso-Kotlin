@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/funcoes/Inline2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/classes/ClasseBasica1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +51,9 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos Kotlin Study\Curso-Kotlin\src\fundamentos" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Inline2Kt">
-    <configuration name="FucaoInfixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.funcoes.FucaoInfixKt" />
+  <component name="RunManager" selected="Kotlin.ClasseBasica1Kt">
+    <configuration name="ClasseBasica1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.classes.ClasseBasica1Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ClasseBasica1Kt" />
         <item itemvalue="Kotlin.Inline2Kt" />
         <item itemvalue="Kotlin.FuncaoComoParametro2Kt" />
         <item itemvalue="Kotlin.FuncaoComoParametro1Kt" />
         <item itemvalue="Kotlin.UnitReturnKt" />
-        <item itemvalue="Kotlin.FucaoInfixKt" />
       </list>
     </recent_temporary>
   </component>
