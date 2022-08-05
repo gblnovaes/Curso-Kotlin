@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/funcoes/Inline.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/funcoes/Inline2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos Kotlin Study\Curso-Kotlin\src\fundamentos" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.FuncaoComoParametro2Kt">
+  <component name="RunManager" selected="Kotlin.Inline2Kt">
     <configuration name="FucaoInfixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.funcoes.FucaoInfixKt" />
       <module name="Curso-Kotlin" />
@@ -73,15 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.funcoes.UnitReturnKt" />
+    <configuration name="Inline2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.funcoes.Inline2Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarargsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.funcoes.VarargsKt" />
+    <configuration name="UnitReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.funcoes.UnitReturnKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Inline2Kt" />
         <item itemvalue="Kotlin.FuncaoComoParametro2Kt" />
         <item itemvalue="Kotlin.FuncaoComoParametro1Kt" />
         <item itemvalue="Kotlin.UnitReturnKt" />
         <item itemvalue="Kotlin.FucaoInfixKt" />
-        <item itemvalue="Kotlin.VarargsKt" />
       </list>
     </recent_temporary>
   </component>
