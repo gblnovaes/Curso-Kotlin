@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/classes/TiposVariaveis.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/classes/ClassVsDataClass.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +51,9 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos K4otlin Study\Curso-Kotlin\src\fundamentos\controles" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TiposVariaveisKt">
-    <configuration name="ClasseBasica1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.classes.ClasseBasica1Kt" />
+  <component name="RunManager" selected="Kotlin.ClassVsDataClassKt">
+    <configuration name="ClassVsDataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.classes.ClassVsDataClassKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ClassVsDataClassKt" />
         <item itemvalue="Kotlin.TiposVariaveisKt" />
         <item itemvalue="Kotlin.Membros2Kt" />
         <item itemvalue="Kotlin.Membros1Kt" />
         <item itemvalue="Kotlin.ClasseBasica2Kt" />
-        <item itemvalue="Kotlin.ClasseBasica1Kt" />
       </list>
     </recent_temporary>
   </component>
