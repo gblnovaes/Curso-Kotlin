@@ -53,35 +53,35 @@
   </component>
   <component name="RunManager" selected="Kotlin.Construtor1Kt">
     <configuration name="ClassVsDataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.classes.ClassVsDataClassKt" />
+      <option name="MAIN_CLASS_NAME" value="classes.ClassVsDataClassKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Construtor1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.classes.Construtor1Kt" />
+      <option name="MAIN_CLASS_NAME" value="classes.Construtor1Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Membros1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.classes.Membros1Kt" />
+      <option name="MAIN_CLASS_NAME" value="classes.Membros1Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Membros2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.classes.Membros2Kt" />
+      <option name="MAIN_CLASS_NAME" value="classes.Membros2Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TiposVariaveisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.classes.TiposVariaveisKt" />
+      <option name="MAIN_CLASS_NAME" value="classes.TiposVariaveisKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />

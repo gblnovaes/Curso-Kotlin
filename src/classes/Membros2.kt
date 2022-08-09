@@ -1,4 +1,4 @@
-package fundamentos.classes
+package classes
 
  class Calculadora{
      private var resultado : Int = 0

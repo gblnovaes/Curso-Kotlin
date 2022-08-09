@@ -1,4 +1,4 @@
-package fundamentos.classes
+package classes
 
 const val diretamenteNoArquivo = "Bom dia"
 

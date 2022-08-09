@@ -1,4 +1,4 @@
-package fundamentos.funcoes
+package funcoes
 
 fun incremento(num : Int){
        // num++

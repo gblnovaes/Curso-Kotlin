@@ -1,4 +1,4 @@
-package fundamentos.funcoes
+package funcoes
 
 
 fun imprimeMaior1(a:Int,b:Int){

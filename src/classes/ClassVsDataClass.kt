@@ -1,4 +1,4 @@
-package fundamentos.classes
+package classes
 
 
 class Geladeira(val marca: String, val litros: Int)

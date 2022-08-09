@@ -3,7 +3,6 @@ package fundamentos
 import fundamentos.pacoteA.simpleFuncao as FuncaoSimples
 import fundamentos.pacoteA.Coisa
 import fundamentos.pacoteA.FaceMoeda.CARA
-import  fundamentos.pacoteB.*
 
 
 fun main() {

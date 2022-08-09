@@ -1,4 +1,4 @@
-package fundamentos.funcoes
+package funcoes
 
  class Operacoes{
      fun soma(a:Int,b:Int):Int{

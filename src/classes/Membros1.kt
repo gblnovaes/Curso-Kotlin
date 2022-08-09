@@ -1,4 +1,4 @@
-package fundamentos.classes
+package classes
 
  data class Data(var dia:Int,var mes:Int,var ano : Int){
    fun formatar() : String{
