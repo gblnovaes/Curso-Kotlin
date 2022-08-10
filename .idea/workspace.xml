@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/classes/Enum1.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/classes/PassagemReferencia.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -51,9 +52,9 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos K4otlin Study\Curso-Kotlin\src\fundamentos\controles" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.PassagemReferenciaKt">
-    <configuration name="BlocoInitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.BlocoInitKt" />
+  <component name="RunManager" selected="Kotlin.Enum1Kt">
+    <configuration name="Enum1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.Enum1Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Enum1Kt" />
         <item itemvalue="Kotlin.PassagemReferenciaKt" />
         <item itemvalue="Kotlin.MembrosClassesVsInstanciaKt" />
         <item itemvalue="Kotlin.GettersCalculadosKt" />
         <item itemvalue="Kotlin.GettersAndSettersKt" />
-        <item itemvalue="Kotlin.BlocoInitKt" />
       </list>
     </recent_temporary>
   </component>

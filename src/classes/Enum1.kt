@@ -1,4 +1,10 @@
 package classes
 
-class Enum1 {
+
+enum class DiaDaSemana{
+    DOMINGO,SEGUNDA,TERCA,QUARTA,QUINTA,SEXTA,SABADO
+}
+
+fun main() {
+    println("O melhor dia da semana e ${DiaDaSemana.SABADO}")
 }
