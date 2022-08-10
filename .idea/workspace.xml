@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classes/BlocoInit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/GettersAndSetters.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/Construtor2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/Construtor2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos K4otlin Study\Curso-Kotlin\src\fundamentos\controles" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.BlocoInitKt">
+  <component name="RunManager" selected="Kotlin.GettersAndSettersKt">
     <configuration name="BlocoInitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classes.BlocoInitKt" />
       <module name="Curso-Kotlin" />
@@ -81,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TiposVariaveisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.TiposVariaveisKt" />
+    <configuration name="GettersAndSettersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.GettersAndSettersKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.GettersAndSettersKt" />
         <item itemvalue="Kotlin.BlocoInitKt" />
         <item itemvalue="Kotlin.Construtor2Kt" />
         <item itemvalue="Kotlin.Construtor1Kt" />
         <item itemvalue="Kotlin.ClassVsDataClassKt" />
-        <item itemvalue="Kotlin.TiposVariaveisKt" />
       </list>
     </recent_temporary>
   </component>
