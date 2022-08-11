@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdas/SortedBy.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,16 +50,16 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos K4otlin Study\Curso-Kotlin\src\fundamentos\controles" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SortedByKt">
-    <configuration name="Enum1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.Enum1Kt" />
+  <component name="RunManager" selected="Kotlin.FilterKt">
+    <configuration name="Enum2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classes.Enum2Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Enum2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classes.Enum2Kt" />
+    <configuration name="FilterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.FilterKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FilterKt" />
         <item itemvalue="Kotlin.SortedByKt" />
         <item itemvalue="Kotlin.Lambda2Kt" />
         <item itemvalue="Kotlin.Lambda1Kt" />
         <item itemvalue="Kotlin.Enum2Kt" />
-        <item itemvalue="Kotlin.Enum1Kt" />
       </list>
     </recent_temporary>
   </component>
