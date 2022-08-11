@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Map1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Map2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,16 +51,9 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos K4otlin Study\Curso-Kotlin\src\fundamentos\controles" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Map1Kt">
+  <component name="RunManager" selected="Kotlin.Map2Kt">
     <configuration name="FilterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdas.FilterKt" />
-      <module name="Curso-Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lambda1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Lambda1Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,6 +68,13 @@
     </configuration>
     <configuration name="Map1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdas.Map1Kt" />
+      <module name="Curso-Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Map2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Map2Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Map2Kt" />
         <item itemvalue="Kotlin.Map1Kt" />
         <item itemvalue="Kotlin.FilterKt" />
         <item itemvalue="Kotlin.SortedByKt" />
         <item itemvalue="Kotlin.Lambda2Kt" />
-        <item itemvalue="Kotlin.Lambda1Kt" />
       </list>
     </recent_temporary>
   </component>
