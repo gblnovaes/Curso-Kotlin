@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collections/ArrayListMix.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/ArrayListUniao.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos K4otlin Study\Curso-Kotlin\src\fundamentos\controles" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ArrayListMixKt">
+  <component name="RunManager" selected="Kotlin.ArrayListUniaoKt">
     <configuration name="ArrayListIntKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.ArrayListIntKt" />
       <module name="Curso-Kotlin" />
@@ -72,15 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.ArraysKt" />
+    <configuration name="ArrayListUniaoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.ArrayListUniaoKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.RunKt" />
+    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.ArraysKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayListUniaoKt" />
         <item itemvalue="Kotlin.ArrayListMixKt" />
         <item itemvalue="Kotlin.ArrayListIntKt" />
         <item itemvalue="Kotlin.ArrayListStringsKt" />
         <item itemvalue="Kotlin.ArraysKt" />
-        <item itemvalue="Kotlin.RunKt" />
       </list>
     </recent_temporary>
   </component>
