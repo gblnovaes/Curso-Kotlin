@@ -50,7 +50,14 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos K4otlin Study\Curso-Kotlin\src\fundamentos\controles" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ArrayListStringsKt">
+  <component name="RunManager" selected="Kotlin.ArrayListIntKt">
+    <configuration name="ArrayListIntKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.ArrayListIntKt" />
+      <module name="Curso-Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayListStringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.ArrayListStringsKt" />
       <module name="Curso-Kotlin" />
@@ -60,13 +67,6 @@
     </configuration>
     <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.ArraysKt" />
-      <module name="Curso-Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Calculadora2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Calculadora2Kt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayListIntKt" />
         <item itemvalue="Kotlin.ArrayListStringsKt" />
         <item itemvalue="Kotlin.ArraysKt" />
         <item itemvalue="Kotlin.RunKt" />
         <item itemvalue="Kotlin.LetKt" />
-        <item itemvalue="Kotlin.Calculadora2Kt" />
       </list>
     </recent_temporary>
   </component>
