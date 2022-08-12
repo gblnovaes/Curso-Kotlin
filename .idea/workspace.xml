@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Let.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/Arrays.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,14 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos K4otlin Study\Curso-Kotlin\src\fundamentos\controles" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LetKt">
+  <component name="RunManager" selected="Kotlin.ArraysKt">
+    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.ArraysKt" />
+      <module name="Curso-Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Calculadora2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdas.Calculadora2Kt" />
       <module name="Curso-Kotlin" />
@@ -66,15 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Map1Kt" />
-      <module name="Curso-Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Map2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Map2Kt" />
+    <configuration name="RunKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.RunKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArraysKt" />
+        <item itemvalue="Kotlin.RunKt" />
         <item itemvalue="Kotlin.LetKt" />
         <item itemvalue="Kotlin.Calculadora2Kt" />
         <item itemvalue="Kotlin.TakeIfKt" />
-        <item itemvalue="Kotlin.Map2Kt" />
-        <item itemvalue="Kotlin.Map1Kt" />
       </list>
     </recent_temporary>
   </component>
