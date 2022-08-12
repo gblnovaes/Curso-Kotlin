@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d435e6-2647-43d7-8928-47ca2958be2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdas/Calculadora2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdas/Let.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="C:\Users\Gabriel Novaes\Desktop\Projetos K4otlin Study\Curso-Kotlin\src\fundamentos\controles" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Calculadora2Kt">
+  <component name="RunManager" selected="Kotlin.LetKt">
     <configuration name="Calculadora2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdas.Calculadora2Kt" />
       <module name="Curso-Kotlin" />
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.FilterKt" />
+    <configuration name="LetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.LetKt" />
       <module name="Curso-Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LetKt" />
         <item itemvalue="Kotlin.Calculadora2Kt" />
         <item itemvalue="Kotlin.TakeIfKt" />
         <item itemvalue="Kotlin.Map2Kt" />
         <item itemvalue="Kotlin.Map1Kt" />
-        <item itemvalue="Kotlin.FilterKt" />
       </list>
     </recent_temporary>
   </component>
